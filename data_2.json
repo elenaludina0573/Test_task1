@@ -1,0 +1,3739 @@
+[
+  {
+    "art": "",
+    "eurocode": "",
+    "oldcode": "",
+    "name": "",
+    "catalog": "",
+    "category": "",
+    "price": ""
+  },
+  {
+    "art": NaN,
+    "eurocode": NaN,
+    "oldcode": NaN,
+    "name": NaN,
+    "category": NaN,
+    "price": NaN
+  },
+  {
+    "art": NaN,
+    "eurocode": NaN,
+    "oldcode": NaN,
+    "name": NaN,
+    "category": NaN,
+    "price": NaN
+  },
+  {
+    "art": NaN,
+    "eurocode": NaN,
+    "oldcode": NaN,
+    "name": NaN,
+    "category": NaN,
+    "price": NaN
+  },
+  {
+    "art": "\u041a\u043e\u0434 AGC",
+    "eurocode": "\u0412\u0438\u0434 \u0441\u0442\u0435\u043a\u043b\u0430",
+    "oldcode": "\u0421\u0442\u0430\u0440\u044b\u0439 \u041a\u043e\u0434 AGC",
+    "name": "\u0415\u0432\u0440\u043e\u043a\u043e\u0434",
+    "category": "\u0412\u0438\u0434 \u0441\u0442\u0435\u043a\u043b\u0430",
+    "price": "\u0426\u0435\u043d\u0430 \u0444\u0438\u043a\u0441\u0438\u0440\u043e\u0432\u0430\u043d\u0430"
+  },
+  {
+    "art": NaN,
+    "eurocode": "\u0412\u0410\u0417",
+    "oldcode": NaN,
+    "name": NaN,
+    "category": "\u0412\u0410\u0417",
+    "price": NaN
+  },
+  {
+    "art": NaN,
+    "eurocode": "\u0412\u0410\u0417",
+    "oldcode": NaN,
+    "name": NaN,
+    "category": "\u0412\u0410\u0417",
+    "price": NaN
+  },
+  {
+    "art": 4038677,
+    "eurocode": "\u0437\u0430\u0434\u043d\u0435\u0435",
+    "oldcode": 6996075,
+    "name": "4549BGSE",
+    "category": "\u0437\u0430\u0434\u043d\u0435\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4038678,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6996079,
+    "name": "4549RGSE5RD",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4038679,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6996080,
+    "name": "4549LGSE5RD",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": NaN,
+    "eurocode": "\u0412\u0410\u0417",
+    "oldcode": NaN,
+    "name": NaN,
+    "category": "\u0412\u0410\u0417",
+    "price": NaN
+  },
+  {
+    "art": 4029887,
+    "eurocode": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "oldcode": 6961537,
+    "name": "4549AGS",
+    "category": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4030001,
+    "eurocode": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "oldcode": 6961725,
+    "name": "4549AGSBL",
+    "category": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4032134,
+    "eurocode": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "oldcode": 6965169,
+    "name": "4549AGSHM",
+    "category": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": NaN,
+    "eurocode": NaN,
+    "oldcode": NaN,
+    "name": NaN,
+    "category": NaN,
+    "price": NaN
+  },
+  {
+    "art": 4037301,
+    "eurocode": "\u0437\u0430\u0434\u043d\u0435\u0435",
+    "oldcode": 6994095,
+    "name": "4549BGSS",
+    "category": "\u0437\u0430\u0434\u043d\u0435\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4036847,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6993332,
+    "name": "4549RGNS4RQ",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": 56.13759581447023
+  },
+  {
+    "art": 4037718,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6994710,
+    "name": "4549RGSS4RQ",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4037305,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6994099,
+    "name": "4549LGSH5FD",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4037302,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6994096,
+    "name": "4549RGSH5FD",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4037309,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6994108,
+    "name": "4549LGSS4RD",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4037308,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6994107,
+    "name": "4549RGSS4RD",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": NaN,
+    "eurocode": "\u0412\u0410\u0417",
+    "oldcode": NaN,
+    "name": NaN,
+    "category": "\u0412\u0410\u0417",
+    "price": NaN
+  },
+  {
+    "art": 4037984,
+    "eurocode": "\u0437\u0430\u0434\u043d\u0435\u0435",
+    "oldcode": 6995116,
+    "name": "4549BGSH1B",
+    "category": "\u0437\u0430\u0434\u043d\u0435\u0435",
+    "price": NaN
+  },
+  {
+    "art": NaN,
+    "eurocode": "\u0412\u0410\u0417",
+    "oldcode": NaN,
+    "name": NaN,
+    "category": "\u0412\u0410\u0417",
+    "price": NaN
+  },
+  {
+    "art": 4032031,
+    "eurocode": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "oldcode": 6965027,
+    "name": "4599ACL",
+    "category": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4032253,
+    "eurocode": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "oldcode": 6965353,
+    "name": "4599AGN",
+    "category": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4032254,
+    "eurocode": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "oldcode": 6965354,
+    "name": "4599AGNM",
+    "category": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4032569,
+    "eurocode": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "oldcode": 6965784,
+    "name": "4599AGNH",
+    "category": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4032255,
+    "eurocode": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "oldcode": 6965355,
+    "name": "4599AGNHM",
+    "category": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": NaN,
+    "eurocode": NaN,
+    "oldcode": NaN,
+    "name": NaN,
+    "category": NaN,
+    "price": NaN
+  },
+  {
+    "art": 4027214,
+    "eurocode": "\u0437\u0430\u0434\u043d\u0435\u0435",
+    "oldcode": 6902612,
+    "name": "4599BGSHB",
+    "category": "\u0437\u0430\u0434\u043d\u0435\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4027215,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6902613,
+    "name": "4599RGSH5RQ",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4027216,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6902614,
+    "name": "4599LGSH5RQ",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4037309,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6994108,
+    "name": "4549LGSS4RD",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4037308,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6994107,
+    "name": "4549RGSS4RD",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4037305,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6994099,
+    "name": "4549LGSH5FD",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4037302,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6994096,
+    "name": "4549RGSH5FD",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": NaN,
+    "eurocode": "\u0412\u0410\u0417",
+    "oldcode": NaN,
+    "name": NaN,
+    "category": "\u0412\u0410\u0417",
+    "price": NaN
+  },
+  {
+    "art": 4038677,
+    "eurocode": "\u0437\u0430\u0434\u043d\u0435\u0435",
+    "oldcode": 6996075,
+    "name": "4549BGSE",
+    "category": "\u0437\u0430\u0434\u043d\u0435\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4038678,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6996079,
+    "name": "4549RGSE5RD",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4038679,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6996080,
+    "name": "4549LGSE5RD",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4037305,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6994099,
+    "name": "4549LGSH5FD",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4037302,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6994096,
+    "name": "4549RGSH5FD",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4027218,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6902616,
+    "name": "4599LGSE5RQ",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4027217,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6902615,
+    "name": "4599RGSE5RQ",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": NaN,
+    "eurocode": "\u0412\u0410\u0417",
+    "oldcode": NaN,
+    "name": NaN,
+    "category": "\u0412\u0410\u0417",
+    "price": NaN
+  },
+  {
+    "art": 4029084,
+    "eurocode": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "oldcode": 6960286,
+    "name": "4500ACL",
+    "category": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4029085,
+    "eurocode": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "oldcode": 6960287,
+    "name": "4500ACLBL",
+    "category": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4029122,
+    "eurocode": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "oldcode": 6960363,
+    "name": "4500ACLBL1B",
+    "category": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4029205,
+    "eurocode": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "oldcode": 6960512,
+    "name": "4500AGNBL",
+    "category": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4029689,
+    "eurocode": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "oldcode": 6961281,
+    "name": "4500AGNBL1B",
+    "category": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": NaN,
+    "eurocode": "\u0412\u0410\u0417",
+    "oldcode": NaN,
+    "name": NaN,
+    "category": "\u0412\u0410\u0417",
+    "price": NaN
+  },
+  {
+    "art": 4035924,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6991337,
+    "name": "4500FCLE5RD",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": 79.78908632139225
+  },
+  {
+    "art": 4035925,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6991338,
+    "name": "4500FCLE5RQ",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": 152.274122253
+  },
+  {
+    "art": NaN,
+    "eurocode": "\u0412\u0410\u0417",
+    "oldcode": NaN,
+    "name": NaN,
+    "category": "\u0412\u0410\u0417",
+    "price": NaN
+  },
+  {
+    "art": 4035933,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6991349,
+    "name": "4500FCLS4FD1J",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4035928,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6991342,
+    "name": "4500FGNS4FD1J",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": NaN,
+    "eurocode": "\u0412\u0410\u0417",
+    "oldcode": NaN,
+    "name": NaN,
+    "category": "\u0412\u0410\u0417",
+    "price": NaN
+  },
+  {
+    "art": 4035922,
+    "eurocode": "\u0437\u0430\u0434\u043d\u0435\u0435",
+    "oldcode": 6991334,
+    "name": "4500BCLS",
+    "category": "\u0437\u0430\u0434\u043d\u0435\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4035915,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6991325,
+    "name": "4500FCLS4FV",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4035916,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6991326,
+    "name": "4500FCLS4FD",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4035917,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6991327,
+    "name": "4500FCLS4RD",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4035918,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6991328,
+    "name": "4500FCLS4RV",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": NaN,
+    "eurocode": "\u0412\u0410\u0417",
+    "oldcode": NaN,
+    "name": NaN,
+    "category": "\u0412\u0410\u0417",
+    "price": NaN
+  },
+  {
+    "art": 4029087,
+    "eurocode": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "oldcode": 6960289,
+    "name": "4502ACL",
+    "category": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4029088,
+    "eurocode": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "oldcode": 6960290,
+    "name": "4502ACLBL",
+    "category": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4029124,
+    "eurocode": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "oldcode": 6960367,
+    "name": "4502ACLBL1B",
+    "category": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4029885,
+    "eurocode": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "oldcode": 6961535,
+    "name": "4502AGS",
+    "category": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4029998,
+    "eurocode": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "oldcode": 6961722,
+    "name": "4502AGSBL",
+    "category": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4029999,
+    "eurocode": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "oldcode": 6961723,
+    "name": "4502AGSBL1B",
+    "category": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": NaN,
+    "eurocode": NaN,
+    "oldcode": NaN,
+    "name": NaN,
+    "category": NaN,
+    "price": NaN
+  },
+  {
+    "art": 4035942,
+    "eurocode": "\u0437\u0430\u0434\u043d\u0435\u0435",
+    "oldcode": 6991358,
+    "name": "4502BCLH",
+    "category": "\u0437\u0430\u0434\u043d\u0435\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4037285,
+    "eurocode": "\u0437\u0430\u0434\u043d\u0435\u0435",
+    "oldcode": 6994064,
+    "name": "4502BGSH",
+    "category": "\u0437\u0430\u0434\u043d\u0435\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4035934,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6991350,
+    "name": "4502RCLH3FD",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4035935,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6991351,
+    "name": "4502LCLH3FD",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4035936,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6991352,
+    "name": "4502RCLH3RQ",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4037888,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6994922,
+    "name": "4502RGSH3RQ",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": NaN,
+    "eurocode": "\u0412\u0410\u0417",
+    "oldcode": NaN,
+    "name": NaN,
+    "category": "\u0412\u0410\u0417",
+    "price": NaN
+  },
+  {
+    "art": 4035950,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6991366,
+    "name": "4502RCLH5FD",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4035860,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6991240,
+    "name": "4502LCLH5FD",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4035951,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6991367,
+    "name": "4502RCLH5RD",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4035856,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6991233,
+    "name": "4502LCLH5RD",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4036061,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6991563,
+    "name": "4502RCLH5RQ1J",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4037290,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6994081,
+    "name": "4502RGSH5FD",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4037291,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6994082,
+    "name": "4502LGSH5FD",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4037785,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6994783,
+    "name": "4502RGSH5RQ1J",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": NaN,
+    "eurocode": "\u0412\u0410\u0417",
+    "oldcode": NaN,
+    "name": NaN,
+    "category": "\u0412\u0410\u0417",
+    "price": NaN
+  },
+  {
+    "art": 4035863,
+    "eurocode": "\u0437\u0430\u0434\u043d\u0435\u0435",
+    "oldcode": 6991243,
+    "name": "4502BCLS",
+    "category": "\u0437\u0430\u0434\u043d\u0435\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4037890,
+    "eurocode": "\u0437\u0430\u0434\u043d\u0435\u0435",
+    "oldcode": 6994924,
+    "name": "4502BGSS",
+    "category": "\u0437\u0430\u0434\u043d\u0435\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4035861,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6991241,
+    "name": "4502RCLS4RQ",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4035862,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6991242,
+    "name": "4502LCLS4RQ",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": NaN,
+    "eurocode": "\u0412\u0410\u0417",
+    "oldcode": NaN,
+    "name": NaN,
+    "category": "\u0412\u0410\u0417",
+    "price": NaN
+  },
+  {
+    "art": 4029070,
+    "eurocode": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "oldcode": 6960266,
+    "name": "4503ACL1B",
+    "category": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4029133,
+    "eurocode": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "oldcode": 6960379,
+    "name": "4503ACLBL",
+    "category": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4029886,
+    "eurocode": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "oldcode": 6961536,
+    "name": "4503AGS",
+    "category": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4030000,
+    "eurocode": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "oldcode": 6961724,
+    "name": "4503AGSBL",
+    "category": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4031033,
+    "eurocode": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "oldcode": 6963100,
+    "name": "4503AGSH",
+    "category": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4032141,
+    "eurocode": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "oldcode": 6965203,
+    "name": "4503AGSHM",
+    "category": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4030881,
+    "eurocode": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "oldcode": 6962902,
+    "name": "4503AGSM1B",
+    "category": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": NaN,
+    "eurocode": NaN,
+    "oldcode": NaN,
+    "name": NaN,
+    "category": NaN,
+    "price": NaN
+  },
+  {
+    "art": 4036550,
+    "eurocode": "\u0437\u0430\u0434\u043d\u0435\u0435",
+    "oldcode": 6992631,
+    "name": "4503BCLS",
+    "category": "\u0437\u0430\u0434\u043d\u0435\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4035874,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6991255,
+    "name": "4503RCLS4FD",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4035875,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6991256,
+    "name": "4503LCLS4FD",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4035872,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6991253,
+    "name": "4503RCLS4RD",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4035873,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6991254,
+    "name": "4503LCLS4RD",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4035870,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6991251,
+    "name": "4503RCLS4RQ",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": 54.583793996800495
+  },
+  {
+    "art": 4035871,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6991252,
+    "name": "4503LCLS4RQ",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": 54.583793996800495
+  },
+  {
+    "art": 4035868,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6991248,
+    "name": "4503RGNS4RQ",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": 54.583793996800495
+  },
+  {
+    "art": 4035869,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6991249,
+    "name": "4503LGNS4RQ",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": 54.583793996800495
+  },
+  {
+    "art": 4037295,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6994087,
+    "name": "4503RGSS4FD",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4037296,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6994088,
+    "name": "4503LGSS4FD",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4037299,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6994091,
+    "name": "4503RGSS4RQ",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4037300,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6994092,
+    "name": "4503LGSS4RQ",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": NaN,
+    "eurocode": "\u0412\u0410\u0417",
+    "oldcode": NaN,
+    "name": NaN,
+    "category": "\u0412\u0410\u0417",
+    "price": NaN
+  },
+  {
+    "art": 4035955,
+    "eurocode": "\u0437\u0430\u0434\u043d\u0435\u0435",
+    "oldcode": 6991371,
+    "name": "4503BCLE",
+    "category": "\u0437\u0430\u0434\u043d\u0435\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4037894,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6994928,
+    "name": "4503LGSE5RD",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": NaN,
+    "eurocode": "\u0412\u0410\u0417",
+    "oldcode": NaN,
+    "name": NaN,
+    "category": "\u0412\u0410\u0417",
+    "price": NaN
+  },
+  {
+    "art": 4035958,
+    "eurocode": "\u0437\u0430\u0434\u043d\u0435\u0435",
+    "oldcode": 6991374,
+    "name": "4503BCLH1H",
+    "category": "\u0437\u0430\u0434\u043d\u0435\u0435",
+    "price": NaN
+  },
+  {
+    "art": NaN,
+    "eurocode": "\u0412\u0410\u0417",
+    "oldcode": NaN,
+    "name": NaN,
+    "category": "\u0412\u0410\u0417",
+    "price": NaN
+  },
+  {
+    "art": 4030881,
+    "eurocode": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "oldcode": 6962902,
+    "name": "4503AGSM1B",
+    "category": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": NaN,
+    "eurocode": NaN,
+    "oldcode": NaN,
+    "name": NaN,
+    "category": NaN,
+    "price": NaN
+  },
+  {
+    "art": 4037936,
+    "eurocode": "\u0437\u0430\u0434\u043d\u0435\u0435",
+    "oldcode": 6995001,
+    "name": "4503BGSS1J",
+    "category": "\u0437\u0430\u0434\u043d\u0435\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4037937,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6995006,
+    "name": "4503RGSS4RQ1J",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4037938,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6995007,
+    "name": "4503LGSS4RQ1J",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": NaN,
+    "eurocode": "\u0412\u0410\u0417",
+    "oldcode": NaN,
+    "name": NaN,
+    "category": "\u0412\u0410\u0417",
+    "price": NaN
+  },
+  {
+    "art": 4026151,
+    "eurocode": "\u0437\u0430\u0434\u043d\u0435\u0435",
+    "oldcode": 6901082,
+    "name": "4503BGSE1J",
+    "category": "\u0437\u0430\u0434\u043d\u0435\u0435",
+    "price": NaN
+  },
+  {
+    "art": NaN,
+    "eurocode": "\u0412\u0410\u0417",
+    "oldcode": NaN,
+    "name": NaN,
+    "category": "\u0412\u0410\u0417",
+    "price": NaN
+  },
+  {
+    "art": 4038726,
+    "eurocode": "\u0437\u0430\u0434\u043d\u0435\u0435",
+    "oldcode": 6996141,
+    "name": "4503BGSH1J",
+    "category": "\u0437\u0430\u0434\u043d\u0435\u0435",
+    "price": NaN
+  },
+  {
+    "art": NaN,
+    "eurocode": "\u0412\u0410\u0417",
+    "oldcode": NaN,
+    "name": NaN,
+    "category": "\u0412\u0410\u0417",
+    "price": NaN
+  },
+  {
+    "art": 4026154,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6901085,
+    "name": "4598RGSH3RQ",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4026155,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6901086,
+    "name": "4598LGSH3RQ",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": NaN,
+    "eurocode": "\u0412\u0410\u0417",
+    "oldcode": NaN,
+    "name": NaN,
+    "category": "\u0412\u0410\u0417",
+    "price": NaN
+  },
+  {
+    "art": 4032031,
+    "eurocode": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "oldcode": 6965027,
+    "name": "4599ACL",
+    "category": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4032253,
+    "eurocode": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "oldcode": 6965353,
+    "name": "4599AGN",
+    "category": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4032254,
+    "eurocode": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "oldcode": 6965354,
+    "name": "4599AGNM",
+    "category": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4032569,
+    "eurocode": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "oldcode": 6965784,
+    "name": "4599AGNH",
+    "category": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4032255,
+    "eurocode": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "oldcode": 6965355,
+    "name": "4599AGNHM",
+    "category": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": NaN,
+    "eurocode": NaN,
+    "oldcode": NaN,
+    "name": NaN,
+    "category": NaN,
+    "price": NaN
+  },
+  {
+    "art": 4026347,
+    "eurocode": "\u0437\u0430\u0434\u043d\u0435\u0435",
+    "oldcode": 6901405,
+    "name": "4599BCLS4B",
+    "category": "\u0437\u0430\u0434\u043d\u0435\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4026655,
+    "eurocode": "\u0437\u0430\u0434\u043d\u0435\u0435",
+    "oldcode": 6901863,
+    "name": "4599BGSS4B",
+    "category": "\u0437\u0430\u0434\u043d\u0435\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4036387,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6992383,
+    "name": "4599RCLS4RD",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4036388,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6992384,
+    "name": "4599LCLS4RD",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4036389,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6992385,
+    "name": "4599RCLS4FD",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4036390,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6992386,
+    "name": "4599LCLS4FD",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4026656,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6901864,
+    "name": "4599RGSS4RQ",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4026657,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6901865,
+    "name": "4599LGSS4RQ",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": NaN,
+    "eurocode": "\u0412\u0410\u0417",
+    "oldcode": NaN,
+    "name": NaN,
+    "category": "\u0412\u0410\u0417",
+    "price": NaN
+  },
+  {
+    "art": 4027990,
+    "eurocode": "\u0437\u0430\u0434\u043d\u0435\u0435",
+    "oldcode": 6903610,
+    "name": "4599BCLSB1J",
+    "category": "\u0437\u0430\u0434\u043d\u0435\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4026722,
+    "eurocode": "\u0437\u0430\u0434\u043d\u0435\u0435",
+    "oldcode": 6901964,
+    "name": "4599BGSSB1J",
+    "category": "\u0437\u0430\u0434\u043d\u0435\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4026724,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6901966,
+    "name": "4599LGSH5RQ1J",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4026723,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6901965,
+    "name": "4599RGSH5RQ1J",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4027571,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6903089,
+    "name": "4599RGSS4RD1J",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4027572,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6903090,
+    "name": "4599LGSS4RD1J",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4027993,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6903613,
+    "name": "4599RCLS4RD1J\u00a0",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": NaN,
+    "eurocode": "\u0412\u0410\u0417",
+    "oldcode": NaN,
+    "name": NaN,
+    "category": "\u0412\u0410\u0417",
+    "price": NaN
+  },
+  {
+    "art": 4156693,
+    "eurocode": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "oldcode": 6971382,
+    "name": "7264AGNHM2C",
+    "category": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4156692,
+    "eurocode": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "oldcode": 6971381,
+    "name": "7264AGNM2C",
+    "category": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4030733,
+    "eurocode": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "oldcode": 6962675,
+    "name": "7264AGNBL",
+    "category": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4139715,
+    "eurocode": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "oldcode": 6970429,
+    "name": "7264AGN1C",
+    "category": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4029698,
+    "eurocode": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "oldcode": 6961291,
+    "name": "7264ACL",
+    "category": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": NaN,
+    "eurocode": NaN,
+    "oldcode": NaN,
+    "name": NaN,
+    "category": NaN,
+    "price": NaN
+  },
+  {
+    "art": 4027796,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6903414,
+    "name": "7264LGSS4FD",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4027795,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6903413,
+    "name": "7264RGSS4FD",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": NaN,
+    "eurocode": NaN,
+    "oldcode": NaN,
+    "name": NaN,
+    "category": NaN,
+    "price": NaN
+  },
+  {
+    "art": 4149605,
+    "eurocode": "\u0437\u0430\u0434\u043d\u0435\u0435",
+    "oldcode": 6905414,
+    "name": "4595BGPMRU",
+    "category": "\u0437\u0430\u0434\u043d\u0435\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4149604,
+    "eurocode": "\u0437\u0430\u0434\u043d\u0435\u0435",
+    "oldcode": 6905415,
+    "name": "4595BGPML",
+    "category": "\u0437\u0430\u0434\u043d\u0435\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4028219,
+    "eurocode": "\u0437\u0430\u0434\u043d\u0435\u0435",
+    "oldcode": 6903839,
+    "name": "4595BGSML",
+    "category": "\u0437\u0430\u0434\u043d\u0435\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4028218,
+    "eurocode": "\u0437\u0430\u0434\u043d\u0435\u0435",
+    "oldcode": 6903838,
+    "name": "4595BGSMRU",
+    "category": "\u0437\u0430\u0434\u043d\u0435\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4026736,
+    "eurocode": "\u0437\u0430\u0434\u043d\u0435\u0435",
+    "oldcode": 6901983,
+    "name": "4595BCLML",
+    "category": "\u0437\u0430\u0434\u043d\u0435\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4026735,
+    "eurocode": "\u0437\u0430\u0434\u043d\u0435\u0435",
+    "oldcode": 6901982,
+    "name": "4595BCLMRU",
+    "category": "\u0437\u0430\u0434\u043d\u0435\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4149685,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6905413,
+    "name": "4595LGPM5RQO",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4149686,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6905412,
+    "name": "4595RGPM5RQO",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4028214,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6903834,
+    "name": "4595RGSM5RQO",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4028215,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6903835,
+    "name": "4595LGSM5RQO",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4028216,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6903836,
+    "name": "4595RGSM5RQ",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4028217,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6903837,
+    "name": "4595LGSM5RQ",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4149607,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6905408,
+    "name": "4595RGPM5RD",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4028212,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6903832,
+    "name": "4595RGSM5RD",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4149606,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6905409,
+    "name": "4595LGPM5RD",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4028213,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6903833,
+    "name": "4595LGSM5RD",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": NaN,
+    "eurocode": "\u0412\u0410\u0417",
+    "oldcode": NaN,
+    "name": NaN,
+    "category": "\u0412\u0410\u0417",
+    "price": NaN
+  },
+  {
+    "art": 4041382,
+    "eurocode": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "oldcode": 6968488,
+    "name": "4592AGSHM",
+    "category": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4154725,
+    "eurocode": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "oldcode": 6971590,
+    "name": "4592AGSHM1E",
+    "category": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4041381,
+    "eurocode": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "oldcode": 6968487,
+    "name": "4592AGSH",
+    "category": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4154726,
+    "eurocode": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "oldcode": 6971589,
+    "name": "4592AGSH1E",
+    "category": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4041380,
+    "eurocode": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "oldcode": 6968486,
+    "name": "4592AGS",
+    "category": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4119471,
+    "eurocode": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "oldcode": NaN,
+    "name": "4592AGS",
+    "category": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": NaN,
+    "eurocode": NaN,
+    "oldcode": NaN,
+    "name": NaN,
+    "category": NaN,
+    "price": NaN
+  },
+  {
+    "art": 4102436,
+    "eurocode": "\u0437\u0430\u0434\u043d\u0435\u0435",
+    "oldcode": 6904750,
+    "name": "4592BGNE",
+    "category": "\u0437\u0430\u0434\u043d\u0435\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4102437,
+    "eurocode": "\u0437\u0430\u0434\u043d\u0435\u0435",
+    "oldcode": 6904751,
+    "name": "4592BGSE",
+    "category": "\u0437\u0430\u0434\u043d\u0435\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4174409,
+    "eurocode": "\u0437\u0430\u0434\u043d\u0435\u0435",
+    "oldcode": 6905560,
+    "name": "4592BGSS",
+    "category": "\u0437\u0430\u0434\u043d\u0435\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4112255,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6904838,
+    "name": "4592LGSS4FD",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4112254,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6904807,
+    "name": "4592RGSS4FD",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4166218,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": NaN,
+    "name": "4592RGSS4RD",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4102439,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6904753,
+    "name": "4592LGSE5RD",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4117088,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6903227,
+    "name": "4592LGNE5RD",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4102438,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6904752,
+    "name": "4592RGSE5RD",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4117087,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6903226,
+    "name": "4592RGNE5RD",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4102441,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6904755,
+    "name": "4592LGNE5RQ",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4102440,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6904754,
+    "name": "4592RGNE5RQ",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4117089,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6904915,
+    "name": "4592RGNE5RQZ",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4117090,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6904916,
+    "name": "4592LGNE5RQZ",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4117091,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6904917,
+    "name": "4592RGSE5RQZ",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4117092,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6904918,
+    "name": "4592LGSE5RQZ",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": NaN,
+    "eurocode": "\u0412\u0410\u0417",
+    "oldcode": NaN,
+    "name": NaN,
+    "category": "\u0412\u0410\u0417",
+    "price": NaN
+  },
+  {
+    "art": 4041606,
+    "eurocode": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "oldcode": 6968712,
+    "name": "4591AGNHM",
+    "category": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4160230,
+    "eurocode": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "oldcode": NaN,
+    "name": "4591AGNHM",
+    "category": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4041608,
+    "eurocode": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "oldcode": 6968714,
+    "name": "4591AGN",
+    "category": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": NaN,
+    "eurocode": NaN,
+    "oldcode": NaN,
+    "name": NaN,
+    "category": NaN,
+    "price": NaN
+  },
+  {
+    "art": 4028382,
+    "eurocode": "\u0437\u0430\u0434\u043d\u0435\u0435",
+    "oldcode": 6904002,
+    "name": "4591BGSRI",
+    "category": "\u0437\u0430\u0434\u043d\u0435\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4028383,
+    "eurocode": "\u0437\u0430\u0434\u043d\u0435\u0435",
+    "oldcode": 6904003,
+    "name": "4591BGPRI",
+    "category": "\u0437\u0430\u0434\u043d\u0435\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4028372,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6903992,
+    "name": "4591RGSR5FD1M",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4028373,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6903993,
+    "name": "4591LGSR5FD1M",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4028374,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6903994,
+    "name": "4591RGSR5RD1M",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4028376,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6903996,
+    "name": "4591RGPR5RD1M",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4028375,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6903995,
+    "name": "4591LGSR5RD1M",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4028377,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6903997,
+    "name": "4591LGPR5RD1M",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4028379,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6903999,
+    "name": "4591LGSR5RQWZ1M",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4028378,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6903998,
+    "name": "4591RGSR5RQWZ1M",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4028380,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6904000,
+    "name": "4591RGPR5RQWZ1M",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4028381,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6904001,
+    "name": "4591LGPR5RQWZ1M",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": NaN,
+    "eurocode": "\u0412\u0410\u0417",
+    "oldcode": NaN,
+    "name": NaN,
+    "category": "\u0412\u0410\u0417",
+    "price": NaN
+  },
+  {
+    "art": 4032031,
+    "eurocode": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "oldcode": 6965027,
+    "name": "4599ACL",
+    "category": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4032255,
+    "eurocode": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "oldcode": 6965355,
+    "name": "4599AGNHM",
+    "category": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4032569,
+    "eurocode": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "oldcode": 6965784,
+    "name": "4599AGNH",
+    "category": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": NaN,
+    "eurocode": NaN,
+    "oldcode": NaN,
+    "name": NaN,
+    "category": NaN,
+    "price": NaN
+  },
+  {
+    "art": 4026655,
+    "eurocode": "\u0437\u0430\u0434\u043d\u0435\u0435",
+    "oldcode": 6901863,
+    "name": "4599BGSS4B",
+    "category": "\u0437\u0430\u0434\u043d\u0435\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4037305,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6994099,
+    "name": "4549LGSH5FD",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4037309,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6994108,
+    "name": "4549LGSS4RD",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4037302,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6994096,
+    "name": "4549RGSH5FD",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4037308,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6994107,
+    "name": "4549RGSS4RD",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4036390,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6992386,
+    "name": "4599LCLS4FD",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4036388,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6992384,
+    "name": "4599LCLS4RD",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4036389,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6992385,
+    "name": "4599RCLS4FD",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4036387,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6992383,
+    "name": "4599RCLS4RD",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": NaN,
+    "eurocode": "\u0412\u0410\u0417",
+    "oldcode": NaN,
+    "name": NaN,
+    "category": "\u0412\u0410\u0417",
+    "price": NaN
+  },
+  {
+    "art": 4032031,
+    "eurocode": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "oldcode": 6965027,
+    "name": "4599ACL",
+    "category": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4032255,
+    "eurocode": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "oldcode": 6965355,
+    "name": "4599AGNHM",
+    "category": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4032569,
+    "eurocode": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "oldcode": 6965784,
+    "name": "4599AGNH",
+    "category": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": NaN,
+    "eurocode": NaN,
+    "oldcode": NaN,
+    "name": NaN,
+    "category": NaN,
+    "price": NaN
+  },
+  {
+    "art": 4027704,
+    "eurocode": "\u0437\u0430\u0434\u043d\u0435\u0435",
+    "oldcode": 6903315,
+    "name": "6093BGNHB",
+    "category": "\u0437\u0430\u0434\u043d\u0435\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4037305,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6994099,
+    "name": "4549LGSH5FD",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4037309,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6994108,
+    "name": "4549LGSS4RD",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4037302,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6994096,
+    "name": "4549RGSH5FD",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4037308,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6994107,
+    "name": "4549RGSS4RD",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4027216,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6902614,
+    "name": "4599LGSH5RQ",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4027215,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6902613,
+    "name": "4599RGSH5RQ",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": NaN,
+    "eurocode": "\u0412\u0410\u0417",
+    "oldcode": NaN,
+    "name": NaN,
+    "category": "\u0412\u0410\u0417",
+    "price": NaN
+  },
+  {
+    "art": 4036120,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6991715,
+    "name": "4543RCLV5MQ",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": 63.6508164335625
+  },
+  {
+    "art": 4036121,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6991716,
+    "name": "4543LCLV5MQ",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": 63.6508164335625
+  },
+  {
+    "art": 4036123,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6991719,
+    "name": "4543LCLV5RQ",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": 54.49242557981249
+  },
+  {
+    "art": NaN,
+    "eurocode": "\u0412\u0410\u0417",
+    "oldcode": NaN,
+    "name": NaN,
+    "category": "\u0412\u0410\u0417",
+    "price": NaN
+  },
+  {
+    "art": 4029090,
+    "eurocode": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "oldcode": 6960292,
+    "name": "4501ACL",
+    "category": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4029206,
+    "eurocode": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "oldcode": 6960513,
+    "name": "4501AGN",
+    "category": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4109397,
+    "eurocode": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "oldcode": 6964354,
+    "name": "4501AGN1B",
+    "category": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4029091,
+    "eurocode": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "oldcode": 6960293,
+    "name": "4501ACLBL",
+    "category": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4030496,
+    "eurocode": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "oldcode": 6962361,
+    "name": "4501ACLBL1B",
+    "category": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4029207,
+    "eurocode": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "oldcode": 6960514,
+    "name": "4501AGNBL",
+    "category": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": NaN,
+    "eurocode": NaN,
+    "oldcode": NaN,
+    "name": NaN,
+    "category": NaN,
+    "price": NaN
+  },
+  {
+    "art": 4035965,
+    "eurocode": "\u0437\u0430\u0434\u043d\u0435\u0435",
+    "oldcode": 6991386,
+    "name": "4501BCLR",
+    "category": "\u0437\u0430\u0434\u043d\u0435\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4035961,
+    "eurocode": "\u0437\u0430\u0434\u043d\u0435\u0435",
+    "oldcode": 6991380,
+    "name": "4501BGNR",
+    "category": "\u0437\u0430\u0434\u043d\u0435\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4028765,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6904385,
+    "name": "4501RGNR5FD1J",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4028766,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6904386,
+    "name": "4501LGNR5FD1J",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4035964,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6991383,
+    "name": "4501FCLH3FD",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4036263,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6992058,
+    "name": "4501LCLH3RQ",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4036262,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6992057,
+    "name": "4501RGNH3RQ",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4035960,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6991377,
+    "name": "4501LGNH3RQ",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": NaN,
+    "eurocode": "\u0412\u0410\u0417",
+    "oldcode": NaN,
+    "name": NaN,
+    "category": "\u0412\u0410\u0417",
+    "price": NaN
+  },
+  {
+    "art": 4036095,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6991654,
+    "name": "4501FGNR5RV",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": 72.62769438899998
+  },
+  {
+    "art": 4037261,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6993981,
+    "name": "4501LCLR5FD",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4037263,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6993983,
+    "name": "4501LGNR5FD",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4037260,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6993980,
+    "name": "4501RCLR5FD",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4037262,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6993982,
+    "name": "4501RGNR5FD",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": NaN,
+    "eurocode": "\u0412\u0410\u0417",
+    "oldcode": NaN,
+    "name": NaN,
+    "category": "\u0412\u0410\u0417",
+    "price": NaN
+  },
+  {
+    "art": 4175092,
+    "eurocode": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "oldcode": NaN,
+    "name": "4544AGS2P",
+    "category": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4147795,
+    "eurocode": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "oldcode": 6971317,
+    "name": "4544AGSBL2P",
+    "category": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4147796,
+    "eurocode": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "oldcode": 6971318,
+    "name": "4544AGSH2P",
+    "category": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4029139,
+    "eurocode": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "oldcode": 6960404,
+    "name": "4544ACL",
+    "category": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4029309,
+    "eurocode": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "oldcode": 6960714,
+    "name": "4544AGN",
+    "category": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4029691,
+    "eurocode": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "oldcode": 6961283,
+    "name": "4544ACLBL",
+    "category": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4029908,
+    "eurocode": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "oldcode": 6961573,
+    "name": "4544AGSBL",
+    "category": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4030878,
+    "eurocode": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "oldcode": 6962898,
+    "name": "4544ACL1P",
+    "category": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4030877,
+    "eurocode": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "oldcode": 6962897,
+    "name": "4544AGSBL1P",
+    "category": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4101981,
+    "eurocode": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "oldcode": 6965172,
+    "name": "4544AGSH1P",
+    "category": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": NaN,
+    "eurocode": NaN,
+    "oldcode": NaN,
+    "name": NaN,
+    "category": NaN,
+    "price": NaN
+  },
+  {
+    "art": 4037264,
+    "eurocode": "\u0437\u0430\u0434\u043d\u0435\u0435",
+    "oldcode": 6993984,
+    "name": "4544BCLR",
+    "category": "\u0437\u0430\u0434\u043d\u0435\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4037748,
+    "eurocode": "\u0437\u0430\u0434\u043d\u0435\u0435",
+    "oldcode": 6994744,
+    "name": "4544BGSR",
+    "category": "\u0437\u0430\u0434\u043d\u0435\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4174956,
+    "eurocode": "\u0437\u0430\u0434\u043d\u0435\u0435",
+    "oldcode": NaN,
+    "name": "4544BYPR1A",
+    "category": "\u0437\u0430\u0434\u043d\u0435\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4036127,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6991724,
+    "name": "4544RCLR5FD",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4036128,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6991725,
+    "name": "4544LCLR5FD",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4037750,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6994746,
+    "name": "4544LGSR5FD",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4037749,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6994745,
+    "name": "4544RGSR5FD",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4036129,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6991726,
+    "name": "4544RCLR5RD",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4026446,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6901566,
+    "name": "4544RGYR5RD",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4026447,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6901567,
+    "name": "4544LGYR5RD",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4037752,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6994748,
+    "name": "4544LGSR5RD",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4037751,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6994747,
+    "name": "4544RGSR5RD",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4036125,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6991721,
+    "name": "4544RCLR5RQ1J",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4036126,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6991722,
+    "name": "4544LCLR5RQ1J",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4037784,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6994782,
+    "name": "4544LGSR5RQ",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4037753,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6994749,
+    "name": "4544RGSR5RQ",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4026448,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6901568,
+    "name": "4544RYPR5RQ",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4026449,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6901569,
+    "name": "4544LYPR5RQ",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": NaN,
+    "eurocode": "\u0413\u0410\u0417",
+    "oldcode": NaN,
+    "name": NaN,
+    "category": "\u0413\u0410\u0417",
+    "price": NaN
+  },
+  {
+    "art": NaN,
+    "eurocode": "\u0413\u0410\u0417",
+    "oldcode": NaN,
+    "name": NaN,
+    "category": "\u0413\u0410\u0417",
+    "price": NaN
+  },
+  {
+    "art": 4029075,
+    "eurocode": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "oldcode": 6960271,
+    "name": "4517ACLBL",
+    "category": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4029194,
+    "eurocode": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "oldcode": 6960499,
+    "name": "4517AGNBL",
+    "category": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": NaN,
+    "eurocode": NaN,
+    "oldcode": NaN,
+    "name": NaN,
+    "category": NaN,
+    "price": NaN
+  },
+  {
+    "art": 4035892,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6991287,
+    "name": "4517RCLS4FD",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4035967,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6991394,
+    "name": "4517LCLS4FD",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4036065,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6991567,
+    "name": "4517RCLS4RD1J",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": 59.07162100668749
+  },
+  {
+    "art": 4036060,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6991562,
+    "name": "4517LCLS4RD1J",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": 63.6508164335625
+  },
+  {
+    "art": 4036059,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6991561,
+    "name": "4517LGNS4RD1J",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": 59.07162100668749
+  },
+  {
+    "art": 4035887,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6991281,
+    "name": "4517RGNS4RV",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": 50.12572876424999
+  },
+  {
+    "art": NaN,
+    "eurocode": "\u0413\u0410\u0417",
+    "oldcode": NaN,
+    "name": NaN,
+    "category": "\u0413\u0410\u0417",
+    "price": NaN
+  },
+  {
+    "art": 4029092,
+    "eurocode": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "oldcode": 6960299,
+    "name": "4514ACL",
+    "category": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4029093,
+    "eurocode": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "oldcode": 6960300,
+    "name": "4514ACLBL",
+    "category": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4029311,
+    "eurocode": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "oldcode": 6960719,
+    "name": "4514AGNBL",
+    "category": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": NaN,
+    "eurocode": NaN,
+    "oldcode": NaN,
+    "name": NaN,
+    "category": NaN,
+    "price": NaN
+  },
+  {
+    "art": 4035970,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6991402,
+    "name": "4514RCLL2FV",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4035971,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6991403,
+    "name": "4514LCLL2FV",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4035968,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6991399,
+    "name": "4514RCLL2FD",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4035969,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6991400,
+    "name": "4514LCLL2FD",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4035982,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6991422,
+    "name": "4514FCLL2RQ",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": NaN,
+    "eurocode": "\u0413\u0410\u0417",
+    "oldcode": NaN,
+    "name": NaN,
+    "category": "\u0413\u0410\u0417",
+    "price": NaN
+  },
+  {
+    "art": 4146512,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6905544,
+    "name": "4514FCLV4RV2J",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4035973,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6991413,
+    "name": "4514FCLV4RV1J",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4035978,
+    "eurocode": "\u0437\u0430\u0434\u043d\u0435\u0435",
+    "oldcode": 6991418,
+    "name": "4514BCLVRU",
+    "category": "\u0437\u0430\u0434\u043d\u0435\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4035979,
+    "eurocode": "\u0437\u0430\u0434\u043d\u0435\u0435",
+    "oldcode": 6991419,
+    "name": "4514BCLVLU",
+    "category": "\u0437\u0430\u0434\u043d\u0435\u0435",
+    "price": NaN
+  },
+  {
+    "art": NaN,
+    "eurocode": "\u0413\u0410\u0417",
+    "oldcode": NaN,
+    "name": NaN,
+    "category": "\u0413\u0410\u0417",
+    "price": NaN
+  },
+  {
+    "art": 4035976,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6991416,
+    "name": "4514RCLV4RVO",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4035977,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6991417,
+    "name": "4514LCLV4RVO",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4035974,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6991414,
+    "name": "4514RCLV4RV",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4035975,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6991415,
+    "name": "4514LCLV4RV",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": NaN,
+    "eurocode": "\u0413\u0410\u0417",
+    "oldcode": NaN,
+    "name": NaN,
+    "category": "\u0413\u0410\u0417",
+    "price": NaN
+  },
+  {
+    "art": 4041925,
+    "eurocode": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "oldcode": 6969032,
+    "name": "4584ACLH1B",
+    "category": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4167288,
+    "eurocode": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "oldcode": 6972275,
+    "name": "4584AGNCMV",
+    "category": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4032618,
+    "eurocode": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "oldcode": 6965855,
+    "name": "4584AGN",
+    "category": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4032619,
+    "eurocode": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "oldcode": 6965856,
+    "name": "4584ACL",
+    "category": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": NaN,
+    "eurocode": NaN,
+    "oldcode": NaN,
+    "name": NaN,
+    "category": NaN,
+    "price": NaN
+  },
+  {
+    "art": 4027164,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6902553,
+    "name": "4584LCLV2FD",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4027166,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6902555,
+    "name": "4584LCLV2FV",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4027160,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6902548,
+    "name": "4584LGSV2FD",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4027163,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6902552,
+    "name": "4584RCLV2FD",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4027165,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6902554,
+    "name": "4584RCLV2FV",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4027159,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6902547,
+    "name": "4584RGSV2FD",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": NaN,
+    "eurocode": "\u0413\u0410\u0417",
+    "oldcode": NaN,
+    "name": NaN,
+    "category": "\u0413\u0410\u0417",
+    "price": NaN
+  },
+  {
+    "art": 4033013,
+    "eurocode": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "oldcode": 6966371,
+    "name": "4585AGN",
+    "category": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": NaN,
+    "eurocode": "\u0413\u0410\u0417",
+    "oldcode": NaN,
+    "name": NaN,
+    "category": "\u0413\u0410\u0417",
+    "price": NaN
+  },
+  {
+    "art": 4028661,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6904281,
+    "name": "4594RCLV3RD",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": NaN,
+    "eurocode": "\u0413\u0410\u0417",
+    "oldcode": NaN,
+    "name": NaN,
+    "category": "\u0413\u0410\u0417",
+    "price": NaN
+  },
+  {
+    "art": 4155856,
+    "eurocode": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "oldcode": 6971292,
+    "name": "4587AGN",
+    "category": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": NaN,
+    "eurocode": "\u0413\u0410\u0417",
+    "oldcode": NaN,
+    "name": NaN,
+    "category": "\u0413\u0410\u0417",
+    "price": NaN
+  },
+  {
+    "art": 4164227,
+    "eurocode": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "oldcode": 6972051,
+    "name": "4561AGN",
+    "category": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": NaN,
+    "eurocode": "\u0413\u0410\u0417",
+    "oldcode": NaN,
+    "name": NaN,
+    "category": "\u0413\u0410\u0417",
+    "price": NaN
+  },
+  {
+    "art": 4035972,
+    "eurocode": "\u0437\u0430\u0434\u043d\u0435\u0435",
+    "oldcode": 6991404,
+    "name": "4519BCLPFU",
+    "category": "\u0437\u0430\u0434\u043d\u0435\u0435",
+    "price": NaN
+  },
+  {
+    "art": NaN,
+    "eurocode": "\u0413\u0410\u0417",
+    "oldcode": NaN,
+    "name": NaN,
+    "category": "\u0413\u0410\u0417",
+    "price": NaN
+  },
+  {
+    "art": 4029094,
+    "eurocode": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "oldcode": 6960302,
+    "name": "4519ACL",
+    "category": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4035981,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6991421,
+    "name": "4519FCLL2FV",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": 69.71785424999999
+  },
+  {
+    "art": 4035980,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6991420,
+    "name": "4519FCLL2FD",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": NaN,
+    "eurocode": "\u0413\u0410\u0417",
+    "oldcode": NaN,
+    "name": NaN,
+    "category": "\u0413\u0410\u0417",
+    "price": NaN
+  },
+  {
+    "art": 4036057,
+    "eurocode": "\u0441\u0440\u0435\u0434\u043d\u0435\u0435",
+    "oldcode": 6991556,
+    "name": "4520GCLL2GRL",
+    "category": "\u0441\u0440\u0435\u0434\u043d\u0435\u0435",
+    "price": NaN
+  },
+  {
+    "art": NaN,
+    "eurocode": "\u0417\u0418\u041b",
+    "oldcode": NaN,
+    "name": NaN,
+    "category": "\u0417\u0418\u041b",
+    "price": NaN
+  },
+  {
+    "art": NaN,
+    "eurocode": "\u0417\u0418\u041b",
+    "oldcode": NaN,
+    "name": NaN,
+    "category": "\u0417\u0418\u041b",
+    "price": NaN
+  },
+  {
+    "art": 4029115,
+    "eurocode": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "oldcode": 6960349,
+    "name": "4537ACL",
+    "category": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": NaN,
+    "eurocode": NaN,
+    "oldcode": NaN,
+    "name": NaN,
+    "category": NaN,
+    "price": NaN
+  },
+  {
+    "art": 4035993,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6991441,
+    "name": "4537FCLL2FV",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": 40.7548392991875
+  },
+  {
+    "art": 4035992,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6991440,
+    "name": "4537FCLL2FD",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": 69.49602471375
+  },
+  {
+    "art": NaN,
+    "eurocode": "\u041a\u0410\u041c\u0410\u0417 ",
+    "oldcode": NaN,
+    "name": NaN,
+    "category": "\u041a\u0410\u041c\u0410\u0417 ",
+    "price": NaN
+  },
+  {
+    "art": NaN,
+    "eurocode": "\u041a\u0410\u041c\u0410\u0417 ",
+    "oldcode": NaN,
+    "name": NaN,
+    "category": "\u041a\u0410\u041c\u0410\u0417 ",
+    "price": NaN
+  },
+  {
+    "art": 4029323,
+    "eurocode": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "oldcode": 6960739,
+    "name": "4524ACL6Y",
+    "category": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4029322,
+    "eurocode": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "oldcode": 6960736,
+    "name": "4524ACLBL6Y",
+    "category": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": NaN,
+    "eurocode": NaN,
+    "oldcode": NaN,
+    "name": NaN,
+    "category": NaN,
+    "price": NaN
+  },
+  {
+    "art": 4035995,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6991444,
+    "name": "4524FCLL2FV",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": 48.0001440634875
+  },
+  {
+    "art": 4168325,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6905828,
+    "name": "4524FGNL2FD",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4035996,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6991445,
+    "name": "4524FCLL2FD",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": 266.03895
+  },
+  {
+    "art": NaN,
+    "eurocode": "\u041a\u0410\u041c\u0410\u0417 ",
+    "oldcode": NaN,
+    "name": NaN,
+    "category": "\u041a\u0410\u041c\u0410\u0417 ",
+    "price": NaN
+  },
+  {
+    "art": 4166579,
+    "eurocode": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "oldcode": 6971862,
+    "name": "4597AGN",
+    "category": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4031783,
+    "eurocode": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "oldcode": 6964635,
+    "name": "4597ACL",
+    "category": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4033187,
+    "eurocode": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "oldcode": 6966559,
+    "name": "4597ACLH",
+    "category": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": NaN,
+    "eurocode": "\u041b\u0418\u0410\u0417",
+    "oldcode": NaN,
+    "name": NaN,
+    "category": "\u041b\u0418\u0410\u0417",
+    "price": NaN
+  },
+  {
+    "art": NaN,
+    "eurocode": "\u041b\u0418\u0410\u0417",
+    "oldcode": NaN,
+    "name": NaN,
+    "category": "\u041b\u0418\u0410\u0417",
+    "price": NaN
+  },
+  {
+    "art": 4171497,
+    "eurocode": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "oldcode": NaN,
+    "name": "6274ACLHM",
+    "category": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": NaN,
+    "eurocode": "\u041b\u0418\u0410\u0417",
+    "oldcode": NaN,
+    "name": NaN,
+    "category": "\u041b\u0418\u0410\u0417",
+    "price": NaN
+  },
+  {
+    "art": 4171496,
+    "eurocode": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "oldcode": NaN,
+    "name": "5292ACLM",
+    "category": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": NaN,
+    "eurocode": "\u041c\u0410\u0417",
+    "oldcode": NaN,
+    "name": NaN,
+    "category": "\u041c\u0410\u0417",
+    "price": NaN
+  },
+  {
+    "art": NaN,
+    "eurocode": "\u041c\u0410\u0417",
+    "oldcode": NaN,
+    "name": NaN,
+    "category": "\u041c\u0410\u0417",
+    "price": NaN
+  },
+  {
+    "art": 4029102,
+    "eurocode": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "oldcode": 6960316,
+    "name": "4577ACLBL",
+    "category": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4029101,
+    "eurocode": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "oldcode": 6960315,
+    "name": "4577ACL",
+    "category": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": NaN,
+    "eurocode": "\u041c\u0410\u0417",
+    "oldcode": NaN,
+    "name": NaN,
+    "category": "\u041c\u0410\u0417",
+    "price": NaN
+  },
+  {
+    "art": 4126689,
+    "eurocode": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "oldcode": 6970637,
+    "name": "4590AGN",
+    "category": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": NaN,
+    "eurocode": "\u041c\u041e\u0421\u041a\u0412\u0418\u0427",
+    "oldcode": NaN,
+    "name": NaN,
+    "category": "\u041c\u041e\u0421\u041a\u0412\u0418\u0427",
+    "price": NaN
+  },
+  {
+    "art": NaN,
+    "eurocode": "\u041c\u041e\u0421\u041a\u0412\u0418\u0427",
+    "oldcode": NaN,
+    "name": NaN,
+    "category": "\u041c\u041e\u0421\u041a\u0412\u0418\u0427",
+    "price": NaN
+  },
+  {
+    "art": 4175731,
+    "eurocode": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "oldcode": NaN,
+    "name": "E601AGNVWZ",
+    "category": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": NaN,
+    "eurocode": NaN,
+    "oldcode": NaN,
+    "name": NaN,
+    "category": NaN,
+    "price": NaN
+  },
+  {
+    "art": NaN,
+    "eurocode": "\u041d\u0415\u0424\u0410\u0417",
+    "oldcode": NaN,
+    "name": NaN,
+    "category": "\u041d\u0415\u0424\u0410\u0417",
+    "price": NaN
+  },
+  {
+    "art": NaN,
+    "eurocode": "\u041d\u0415\u0424\u0410\u0417",
+    "oldcode": NaN,
+    "name": NaN,
+    "category": "\u041d\u0415\u0424\u0410\u0417",
+    "price": NaN
+  },
+  {
+    "art": 4171495,
+    "eurocode": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "oldcode": 6972078,
+    "name": "5299ACLHM99",
+    "category": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4167629,
+    "eurocode": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "oldcode": 6972077,
+    "name": "5299ACLH99",
+    "category": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": NaN,
+    "eurocode": "\u041f\u0410\u0417",
+    "oldcode": NaN,
+    "name": NaN,
+    "category": "\u041f\u0410\u0417",
+    "price": NaN
+  },
+  {
+    "art": NaN,
+    "eurocode": "\u041f\u0410\u0417",
+    "oldcode": NaN,
+    "name": NaN,
+    "category": "\u041f\u0410\u0417",
+    "price": NaN
+  },
+  {
+    "art": 4029117,
+    "eurocode": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "oldcode": 6960353,
+    "name": "CP50ACLL",
+    "category": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4029116,
+    "eurocode": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "oldcode": 6960352,
+    "name": "CP50ACLR",
+    "category": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": NaN,
+    "eurocode": NaN,
+    "oldcode": NaN,
+    "name": NaN,
+    "category": NaN,
+    "price": NaN
+  },
+  {
+    "art": 4036028,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6991505,
+    "name": "CP50LCLFQ",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": 49.913230152937494
+  },
+  {
+    "art": 4036033,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6991513,
+    "name": "CP50FCLRQ",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": 201.02667923981244
+  },
+  {
+    "art": 4036085,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6991597,
+    "name": "CP50FCLRQ1J",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": 320.08576033856247
+  },
+  {
+    "art": NaN,
+    "eurocode": "\u041f\u0410\u0417",
+    "oldcode": NaN,
+    "name": NaN,
+    "category": "\u041f\u0410\u0417",
+    "price": NaN
+  },
+  {
+    "art": 4147804,
+    "eurocode": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "oldcode": 6971328,
+    "name": "4586AGN",
+    "category": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": NaN,
+    "eurocode": "\u041f\u0410\u0417",
+    "oldcode": NaN,
+    "name": NaN,
+    "category": "\u041f\u0410\u0417",
+    "price": NaN
+  },
+  {
+    "art": 4174190,
+    "eurocode": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "oldcode": NaN,
+    "name": "4588AGNHP",
+    "category": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": NaN,
+    "eurocode": "\u0423\u0410\u0417",
+    "oldcode": NaN,
+    "name": NaN,
+    "category": "\u0423\u0410\u0417",
+    "price": NaN
+  },
+  {
+    "art": NaN,
+    "eurocode": "\u0423\u0410\u0417",
+    "oldcode": NaN,
+    "name": NaN,
+    "category": "\u0423\u0410\u0417",
+    "price": NaN
+  },
+  {
+    "art": 4029110,
+    "eurocode": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "oldcode": 6960332,
+    "name": "4531ACL6Y",
+    "category": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4029111,
+    "eurocode": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "oldcode": 6960333,
+    "name": "4531ACLBL6Y",
+    "category": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": NaN,
+    "eurocode": "\u0423\u0410\u0417",
+    "oldcode": NaN,
+    "name": NaN,
+    "category": "\u0423\u0410\u0417",
+    "price": NaN
+  },
+  {
+    "art": 4029113,
+    "eurocode": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "oldcode": 6960338,
+    "name": "4534ACLBL",
+    "category": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4029112,
+    "eurocode": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "oldcode": 6960337,
+    "name": "4534ACL",
+    "category": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": NaN,
+    "eurocode": "\u0423\u0410\u0417",
+    "oldcode": NaN,
+    "name": NaN,
+    "category": "\u0423\u0410\u0417",
+    "price": NaN
+  },
+  {
+    "art": 4032362,
+    "eurocode": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "oldcode": 6965515,
+    "name": "4532ACL1B",
+    "category": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4032987,
+    "eurocode": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "oldcode": 6966344,
+    "name": "4532AGN7Z",
+    "category": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4030358,
+    "eurocode": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "oldcode": 6962186,
+    "name": "4532AGS7Z",
+    "category": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4032988,
+    "eurocode": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "oldcode": 6966345,
+    "name": "4532AGSH7Z",
+    "category": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": NaN,
+    "eurocode": NaN,
+    "oldcode": NaN,
+    "name": NaN,
+    "category": NaN,
+    "price": NaN
+  },
+  {
+    "art": 4037899,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6994934,
+    "name": "4532RGSR5FD",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4037900,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6994935,
+    "name": "4532LGSR5FD",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4037901,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6994936,
+    "name": "4532RGSR5RD1J",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4037902,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6994937,
+    "name": "4532LGSR5RD1J",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": NaN,
+    "eurocode": "\u0423\u0410\u0417",
+    "oldcode": NaN,
+    "name": NaN,
+    "category": "\u0423\u0410\u0417",
+    "price": NaN
+  },
+  {
+    "art": 4034585,
+    "eurocode": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "oldcode": 6968005,
+    "name": "4593AGNH1C",
+    "category": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4033216,
+    "eurocode": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "oldcode": 6966588,
+    "name": "4593AGNH",
+    "category": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4033213,
+    "eurocode": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "oldcode": 6966585,
+    "name": "4593AGN1C",
+    "category": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4033215,
+    "eurocode": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "oldcode": 6966587,
+    "name": "4593AGN",
+    "category": "\u0432\u0435\u0442\u0440\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": NaN,
+    "eurocode": NaN,
+    "oldcode": NaN,
+    "name": NaN,
+    "category": NaN,
+    "price": NaN
+  },
+  {
+    "art": 4028119,
+    "eurocode": "\u0437\u0430\u0434\u043d\u0435\u0435",
+    "oldcode": 6903739,
+    "name": "4593BGNR",
+    "category": "\u0437\u0430\u0434\u043d\u0435\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4028120,
+    "eurocode": "\u0437\u0430\u0434\u043d\u0435\u0435",
+    "oldcode": 6903740,
+    "name": "4593BYPR",
+    "category": "\u0437\u0430\u0434\u043d\u0435\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4028121,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6903741,
+    "name": "4593RGSR5RQ",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4028122,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6903742,
+    "name": "4593LGSR5RQ",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4028123,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6903743,
+    "name": "4593RYPR5RQ",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4028124,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6903744,
+    "name": "4593LYPR5RQ",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": NaN,
+    "eurocode": "\u0423\u0410\u0417",
+    "oldcode": NaN,
+    "name": NaN,
+    "category": "\u0423\u0410\u0417",
+    "price": NaN
+  },
+  {
+    "art": 4037899,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6994934,
+    "name": "4532RGSR5FD",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4037900,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6994935,
+    "name": "4532LGSR5FD",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": NaN,
+    "eurocode": "\u0423\u0410\u0417",
+    "oldcode": NaN,
+    "name": NaN,
+    "category": "\u0423\u0410\u0417",
+    "price": NaN
+  },
+  {
+    "art": 4028119,
+    "eurocode": "\u0437\u0430\u0434\u043d\u0435\u0435",
+    "oldcode": 6903739,
+    "name": "4593BGNR",
+    "category": "\u0437\u0430\u0434\u043d\u0435\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4028120,
+    "eurocode": "\u0437\u0430\u0434\u043d\u0435\u0435",
+    "oldcode": 6903740,
+    "name": "4593BYPR",
+    "category": "\u0437\u0430\u0434\u043d\u0435\u0435",
+    "price": NaN
+  },
+  {
+    "art": NaN,
+    "eurocode": NaN,
+    "oldcode": NaN,
+    "name": NaN,
+    "category": NaN,
+    "price": NaN
+  },
+  {
+    "art": 4037901,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6994936,
+    "name": "4532RGSR5RD1J",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4037902,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6994937,
+    "name": "4532LGSR5RD1J",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4026823,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": 6902123,
+    "name": "4533RGYR5RD",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": NaN,
+    "eurocode": NaN,
+    "oldcode": NaN,
+    "name": NaN,
+    "category": NaN,
+    "price": NaN
+  },
+  {
+    "art": NaN,
+    "eurocode": NaN,
+    "oldcode": NaN,
+    "name": NaN,
+    "category": NaN,
+    "price": NaN
+  },
+  {
+    "art": NaN,
+    "eurocode": NaN,
+    "oldcode": NaN,
+    "name": NaN,
+    "category": NaN,
+    "price": NaN
+  },
+  {
+    "art": NaN,
+    "eurocode": "Claas",
+    "oldcode": NaN,
+    "name": NaN,
+    "category": "Claas",
+    "price": NaN
+  },
+  {
+    "art": 4175065,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": NaN,
+    "name": 5652821,
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4175066,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": NaN,
+    "name": 5470161,
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": NaN,
+    "eurocode": "\u041c\u0422\u0417",
+    "oldcode": NaN,
+    "name": NaN,
+    "category": "\u041c\u0422\u0417",
+    "price": NaN
+  },
+  {
+    "art": 4173917,
+    "eurocode": "\u0437\u0430\u0434\u043d\u0435\u0435",
+    "oldcode": NaN,
+    "name": "80-6708211-A",
+    "category": "\u0437\u0430\u0434\u043d\u0435\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4173999,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": NaN,
+    "name": "80-6708901-R",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4173918,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": NaN,
+    "name": "80-6708901",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4173916,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": NaN,
+    "name": "80-6703012-A",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": 4173998,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": NaN,
+    "name": "80-6703012-A-R",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": NaN,
+    "eurocode": "\u041c\u0422\u0417",
+    "oldcode": NaN,
+    "name": NaN,
+    "category": "\u041c\u0422\u0417",
+    "price": NaN
+  },
+  {
+    "art": 4175067,
+    "eurocode": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "oldcode": NaN,
+    "name": "82.3-6703011-\u0412",
+    "category": "\u0431\u043e\u043a\u043e\u0432\u043e\u0435",
+    "price": NaN
+  },
+  {
+    "art": NaN,
+    "eurocode": NaN,
+    "oldcode": NaN,
+    "name": NaN,
+    "category": NaN,
+    "price": NaN
+  },
+  {
+    "art": NaN,
+    "eurocode": NaN,
+    "oldcode": NaN,
+    "name": NaN,
+    "category": NaN,
+    "price": NaN
+  }
+]
